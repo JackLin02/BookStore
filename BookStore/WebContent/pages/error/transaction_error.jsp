@@ -104,6 +104,8 @@
 
 	.logo_img{
 		float: left;
+		width: 258px;
+		height: 82px;
 	}
 
 	#header div a {
@@ -132,7 +134,7 @@
 
 	.login_banner{
 		height:475px;
-		background-color: #39987c;
+		background-color: #2196F3;
 	}
 
 	.login_form{

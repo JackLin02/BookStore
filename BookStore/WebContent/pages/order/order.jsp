@@ -106,6 +106,8 @@
 
 	.logo_img{
 		float: left;
+		width: 258px;
+		height: 82px;
 	}
 
 	#header div a {
@@ -134,7 +136,7 @@
 
 	.login_banner{
 		height:475px;
-		background-color: #39987c;
+		background-color: #2196F3;
 	}
 
 	.login_form{
@@ -290,7 +292,7 @@
 <body>
 
 	<div id="header">
-			<img class="logo_img" alt="" src="static/img/logo.gif" >
+			<img class="logo_img" alt="" src="static/img/logo.jpg" >
 			<span class="wel_word">マイオーダー</span>
 
 			<%@ include file="/WEB-INF/include/welcome.jsp" %>
